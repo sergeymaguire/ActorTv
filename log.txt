@@ -32,4 +32,8 @@ TV Maze URL: http://www.tvmaze.com/people/45736/bruce-willisName: Bruce Willis
 Birthday: 1955-03-19
 Gender: Male
 Country: Germany
+TV Maze URL: http://www.tvmaze.com/people/45736/bruce-willisName: Bruce Willis
+Birthday: 1955-03-19
+Gender: Male
+Country: Germany
 TV Maze URL: http://www.tvmaze.com/people/45736/bruce-willis
